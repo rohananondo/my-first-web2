@@ -21,5 +21,16 @@ section {
 }
 
 .half img {
-    width: 80%;
+    width: 90%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: tomato;
+    background-image: linear-gradient(orange tomato);
+    padding: 10px 40px;
+    color: rgb(57, 22, 255);
+    font-weight: 700;
+    border-radius: 5px;
+
 }
