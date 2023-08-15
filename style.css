@@ -34,3 +34,7 @@ section {
     border-radius: 5px;
 
 }
+
+.top {
+    background-image: url(images/header_bg.png);
+}
