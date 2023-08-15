@@ -13,6 +13,7 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 100px;
 }
 
 .half {
@@ -33,8 +34,4 @@ section {
     font-weight: 700;
     border-radius: 5px;
 
-}
-
-.top {
-    background-image: url(images/header_bg.png);
 }
