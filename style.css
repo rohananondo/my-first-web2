@@ -7,6 +7,10 @@ h1 {
 
 }
 
+h2 {
+    font-size: 40px;
+}
+
 .red {
     color: rgb(26, 0, 173);
 }
@@ -34,4 +38,13 @@ h1 {
     font-weight: 700;
     border-radius: 5px;
 
+}
+
+.experiance {
+    width: 80%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    box-shadow: 10px 10px 40px grey;
 }
