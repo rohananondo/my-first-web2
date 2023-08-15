@@ -48,3 +48,15 @@ h2 {
     padding-right: 10%;
     box-shadow: 10px 10px 40px grey;
 }
+
+#full {
+    border-left: 7px solid tomato;
+}
+
+#baby {
+    border-left: 7px solid blue;
+}
+
+footer p {
+    text-align: center;
+}
